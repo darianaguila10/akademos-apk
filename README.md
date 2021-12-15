@@ -1,5 +1,9 @@
 # AKADEMO-APK
 
+<img src="2.jpg" width="30%"/> 
+<img src="1.jpg" width="30%"/> 
+
+
 # Pre-requirements
 - Install Ubuntu 18.04 64bit
 - Install Flutter
